@@ -24,41 +24,41 @@
 ## Самостоятельная работа
 ### Выведите в консоль булевую переменную, не используя слово False в строке или изначально присвоенную булевую переменную. Программа должна занимать не более двух строк редактора кода.
 ### Результат:
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_1.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_1.png)
 
 ### Присвоить значения трем переменным и вывести их в консоль, используя только две строки редактора кода
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_2.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_2.png)
 
 ### Реализуйте ввод данных в программу, через консоль, в виде только целых чисел (тип данных int). То есть при вводе буквенных символов в консоль, программа не должна работать.
 Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_3.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_3.png)
 
 ### Создайте только одну строковую переменную. Длина строки должна не превышать 5 символов. На выходе мы должны получить строку длиной не менее 16 символов. Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_4.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_4.png)
 
 ### Создайте три переменные: день(тип данных – числовой), месяц (тип данных – строка), год (тип данных – числовой) и выведите в консоль текущую дату в формате "Сегодня день месяц год. Всего хорошего!", используя F строку и оператор end внутри print(), в котором вы должны написать фразу " Всего хорошено!" Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_5.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_5.png)
 
 ### В предложении "Hello world" вставьте 'my' между двумя словами. Выведите полученное предложение в консоль в одну строку. Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_6.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_6.png)
 
 ### Узнайте длину предложения 'Hello World',  результат выведите в консоль. Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_7.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_7.png)
 
 ### Переведите предложение 'HELLO WORLD' в нижний регистр. Программа должна занимать не более двух строк редактора кода.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_8.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_8.png)
 
 ### Самостоятельно придумайте задачу по проходимой теме и решите её. Задача должна быть свзана со взаимодействием с числовыми значениями.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_9.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_9.png)
 
 ### Самостоятельно придумайте задачу по проходимой теме и решите ее. Задача должна быть связана со взаимодействием со строковыми значениями.
 ### Результат
-![Меню](https://github.com/malikovmik/software/tree/Tema_2/lab_2/pic/lab_2_10.png)
+![Меню](https://github.com/BlitzkriegBop666/software_engineering/blob/Tema_2/lab_2/pic/lab_2_10.png)
